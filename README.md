@@ -53,7 +53,7 @@ Welcome to **Prescripto**, a full-stack web application designed to simplify the
 - **Authentication**: JSON Web Tokens (JWT)
 
 ## Visual Overview
-![Homepage](admin\src\assets\screenshorts\homepage1.png)
+![Homepage](admin/src/assets/screenshorts/homepage1.png )
 *Homepage showcasing the appointment booking feature.*
 ***
 
@@ -70,7 +70,7 @@ Welcome to **Prescripto**, a full-stack web application designed to simplify the
 *User  profile page for managing personal information.*
 ***
 
-![Appointment History](admin\src\assets\screenshorts/appointment_history.png)
+![Appointment History]()
 *Appointment history page displaying past appointments.*
 ***
 ![admin Dashboard](admin\src\assets\screenshorts/admin_dashboard.png)
