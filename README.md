@@ -57,23 +57,24 @@ Welcome to **Prescripto**, a full-stack web application designed to simplify the
 *Homepage showcasing the appointment booking feature.*
 ***
 
-![Doctors Dashboard](admin\src\assets\screenshorts\doctor_dashboard.png)
+![Doctors Dashboard](admin/src/assets/screenshorts/doctor_dashboard.png)
 *Doctor's Dashboard for Viewing Earnings and Managing Appointments.*
 ***
 
-![Doctor Profile](admin\src\assets\screenshorts/doctor_profile1.png)
+![Doctor Profile](admin/src/assets/screenshorts/doctor_profile1.png
+)
 *Doctor's profile page with available slots.*
 ***
 
 
-![User  Profile](admin\src\assets\screenshorts/user-profile.png)
+![User  Profile](admin/src/assets/screenshorts/user-profile.png)
 *User  profile page for managing personal information.*
 ***
 
-![Appointment History]()
+![Appointment History](admin/src/assets/screenshorts/appointment_history.png)
 *Appointment history page displaying past appointments.*
 ***
-![admin Dashboard](admin\src\assets\screenshorts/admin_dashboard.png)
+![admin Dashboard](admin/src/assets/screenshorts/admin_dashboard.png)
 *Admin's dashboard for managing appointments and doctors.*
 ***
 
